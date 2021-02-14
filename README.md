@@ -42,7 +42,7 @@ Se deberá realizar una presentación con una duración aproximada de 10 minutos
 
 # A mejorar
 
-Eliminar duplicados
-Probar con más algoritmos de Machine Learning
-Usar todo el conjunto entrenamiento para probar despues la validacion
-Probar a usar solo las dummys para el PCA
+- Eliminar duplicados
+- Probar con más algoritmos de Machine Learning
+- sar todo el conjunto entrenamiento para probar despues la validacion
+- Probar a usar solo las dummys para el PCA
