@@ -37,3 +37,12 @@ De cara a evaluar justamente, la semilla para todos aquellos métodos estocásti
 
 ## Sistema de evaluación
 Se deberá realizar una presentación con una duración aproximada de 10 minutos el próximo viernes 12 de febrero en la que se incluyan las operaciones realizadas para el preprocesamiento, entrenamiento y validación de los modelos. Se valorará positivamente interpretar no solo las medidas de calidad obtenidas por el modelo sino también el modelo en sí mismo.
+
+
+
+# A mejorar
+
+Eliminar duplicados
+Probar con más algoritmos de Machine Learning
+Usar todo el conjunto entrenamiento para probar despues la validacion
+Probar a usar solo las dummys para el PCA
